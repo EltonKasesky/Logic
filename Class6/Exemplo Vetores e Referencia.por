@@ -16,7 +16,7 @@ programa
 
 		imprimir(numeros)
 
-		escreva(numeros[0])
+		escreva("\n" + numeros[0] + numeros[1] + numeros[2])
 	}
 
 	funcao imprimir(inteiro &n[]){
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 235; 
+ * @POSICAO-CURSOR = 263; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
